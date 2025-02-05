@@ -29,7 +29,7 @@ source <name-of-the-env>/bin/activate
 ```
 
 ### 2. Install PyTorch
-Follow the instructions on the [website](https://pytorch.org/)
+Follow the instructions on the [website](https://pytorch.org/).
 
 ### 3. Install Required Packages
 ```sh
