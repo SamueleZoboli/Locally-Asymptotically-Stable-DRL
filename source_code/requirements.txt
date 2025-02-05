@@ -1,0 +1,8 @@
+scipy 
+geneticalgorithm 
+pandas 
+matplotlib 
+tensorboard 
+gym==0.18.0
+pybullet
+stable-baselines3==1.2.0
