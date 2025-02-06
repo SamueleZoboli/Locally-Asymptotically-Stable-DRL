@@ -3,7 +3,7 @@
 ## Locally Asymptotically Stable Deep Actor-Critic Algorithms for Quadratic Cost Setpoint Optimal Control Problems
 
 This repository provides the necessary steps to run and evaluate the experiments presented in Section 1.2 of ["Achieving reliable control : robustness and stability in
-nonlinear systems via DNN-based feedback design"](https://theses.hal.science/tel-04631894/file/TH2023ZOBOLISAMUELE.pdf). An extract is proposed in summary.pdf.
+nonlinear systems via DNN-based feedback design"](https://theses.hal.science/tel-04631894/file/TH2023ZOBOLISAMUELE.pdf). An extract is proposed in summary.pdf. Some files are modified versions of [gym](https://github.com/openai/gym) and [PyBullet](https://pybullet.org/wordpress/) files.
 
 ### Prerequisites
 
